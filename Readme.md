@@ -18,9 +18,9 @@ For developing the skeleton for the project we need to implement the following t
 - - - - [ ] H3 Teacher can't invigilate more than one exam at a time
 - - - - [ ] H4 Student can't give consecutive exams in a day
 - - - - [ ] H5 One course must be scheduled once only
-- - - [ ] Soft Constraints
-- - - - [ ] S1 Exam is scheduled in less days
-- - - - [ ] S2 Almost equal number of invigilation duties
+- - - [x] Soft Constraints
+- - - - [x] S1 Exam is scheduled in less days
+- - - - [x] S2 Almost equal number of invigilation duties
 - - [ ] Calculating fitness of a chromosome/schedule
 - - [ ] Get two best fittest schedules
 - - [ ] Selecting Parents (Roulette Wheel Selection)
