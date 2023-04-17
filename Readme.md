@@ -16,8 +16,7 @@ For developing the skeleton for the project we need to implement the following t
 - - - - [x] H1 Exam is scheduled for each course
 - - - - [x] H2 Student can't give more than one exam at a time
 - - - - [x] H3 Teacher can't invigilate more than one exam at a time
-- - - - [x] H4 Student can't give consecutive exams in a day
-- - - - [x] H5 One course must be scheduled once only
+- - - - [x] H4 One course must be scheduled once only
 - - - [x] Soft Constraints
 - - - - [x] S1 Exam is scheduled in less days
 - - - - [x] S2 Almost equal number of invigilation duties
